@@ -5,9 +5,9 @@ Auto anchor plugin v 1.0
     прописсть ссылкам data атрибут:
         <a href="#link" data-anchor="true">Link</a>
 2. Присвоить id блоку:
-        <div id="link">
-            ...
-            </div>
+>        <div id="link">
+>            ...
+>            </div>
 3. Подключить скрипт: 
     (подключать скрипт можно как ваш общий js файл так и в html страницу предварительно обернув 
     его тегом <script>...</script>
